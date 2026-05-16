@@ -14,6 +14,6 @@ We build agentic delivery systems with audit trails — proven on production pro
 - Site: [theagentpractice.com](https://theagentpractice.com)
 - Engagement enquiries: hello@theagentpractice.com
 - Engineering journal: [theagentpractice.com/blog](https://theagentpractice.com/blog)
-- Case studies: [PickNDeal](https://theagentpractice.com/case-studies/pickndeal) · [PayoutKit](https://theagentpractice.com/case-studies/payoutkit)
+- Case study: [PickNDeal](https://theagentpractice.com/case-studies/pickndeal) 
 
 ---
