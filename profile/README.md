@@ -2,7 +2,7 @@
 
 > Production AI engineering for software teams shipping at scale.
 
-We build agentic delivery systems with audit trails — proven on PickNDeal and PayoutKit, available for client engagements from teams that have tried agentic dev internally and run into the reliability ceiling.
+We build agentic delivery systems with audit trails — proven on production projects such as PickNDeal, available for client engagements from teams that have tried agentic dev internally and run into the reliability ceiling.
 
 ## What we do
 
